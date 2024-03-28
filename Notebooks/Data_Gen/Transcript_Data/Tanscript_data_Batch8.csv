@@ -1,0 +1,1936 @@
+attendees,meeting_topics,transcript,summary
+4,mobile application development(swift),"```
+{
+  ""date"": ""2023-03-08"",
+  ""time"": ""10:00 AM"",
+  ""attendess"": [
+    ""Manager"",
+    ""Junior 1"",
+    ""Junior 2"",
+    ""Junior 3"",
+    ""Junior 4""
+  ],
+  ""transcript"": [
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""Good morning, team. Let's start our daily standup meeting.""
+    },
+    {
+      ""speaker"": ""Junior 1"",
+      ""text"": ""Yesterday, I completed the user interface design for the login and signup screens. Today, I'll be working on the backend code for user authentication.""
+    },
+    {
+      ""speaker"": ""Junior 2"",
+      ""text"": ""I finished the integration of the payment gateway. Now, I'm working on the shopping cart functionality.""
+    },
+    {
+      ""speaker"": ""Junior 3"",
+      ""text"": ""I've been working on the push notification feature. I'm currently testing it on different devices.""
+    },
+    {
+      ""speaker"": ""Junior 4"",
+      ""text"": ""I've completed the bug fixes for the previous version of the app. I'm now working on a new feature that will allow users to create custom playlists.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""Great progress, everyone. Keep up the good work.""
+    },
+    {
+      ""speaker"": ""Junior 1"",
+      ""text"": ""I'm facing an issue with the integration of the social media login. The API is not responding properly.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""I see. Let's discuss this after the meeting and find a solution.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""That's all for today's standup meeting. Thank you, team.""
+    }
+  ]
+}
+```",
+5,data analytics,"```
+{
+    ""date"": ""2023-03-08"",
+    ""time"": ""10:00 AM"",
+    ""attendess"": [
+        ""Manager"",
+        ""Junior 1"",
+        ""Junior 2"",
+        ""Junior 3"",
+        ""Junior 4"",
+        ""Junior 5""
+    ],
+    ""transcript"": [
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Good morning team. Let's start our daily standup meeting.""
+        },
+        {
+            ""speaker"": ""Junior 1"",
+            ""text"": ""Yesterday, I completed the data cleaning and preparation tasks for the customer segmentation project.""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""I worked on building the machine learning models for the churn prediction project.""
+        },
+        {
+            ""speaker"": ""Junior 3"",
+            ""text"": ""I finished the analysis of the social media data for the brand sentiment project.""
+        },
+        {
+            ""speaker"": ""Junior 4"",
+            ""text"": ""I created the visualizations for the sales forecasting project.""
+        },
+        {
+            ""speaker"": ""Junior 5"",
+            ""text"": ""I am currently working on the report for the customer satisfaction project.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Great work, team. Keep up the good progress.""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""I am facing a blocker in the churn prediction project. The data is not loading properly into the model.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""I'll assign a senior data engineer to help you with that. Let's discuss the details after the meeting.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Any other blockers or concerns?""
+        },
+        {
+            ""speaker"": ""Junior 3"",
+            ""text"": ""I need access to the customer relationship management (CRM) system to get some additional data for the brand sentiment project.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""I'll send you the necessary permissions.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""That's all for today's standup meeting. Keep up the good work, and let me know if you have any questions or concerns.""
+        }
+    ]
+}
+```",
+2,software developement(java),"```json
+{
+  ""date"": ""2023-02-28"",
+  ""time"": ""10:00 AM"",
+  ""attendess"": [
+    ""Manager"",
+    ""Junior Developer 1"",
+    ""Junior Developer 2""
+  ],
+  ""transcript"": ""**Manager:** Good morning, team. Let's start with our daily standup meeting. Junior Developer 1, please share your progress on the Java software development project.
+
+**Junior Developer 1:** Thank you, Manager. Yesterday, I completed the coding for the user interface and integrated it with the back-end. Today, I will be working on testing and debugging the application.
+
+**Manager:** Great work. Junior Developer 2, what have you been working on?
+
+**Junior Developer 2:** I was assigned the task of developing the database module. I have completed the schema design and created the necessary tables. Today, I will be implementing the data access layer and writing queries to retrieve and update data.
+
+**Manager:** That's good progress. Do you have any blockers or challenges that you're facing?
+
+**Junior Developer 1:** I'm encountering some issues with the integration of the front-end and back-end. The data is not being displayed correctly on the user interface.
+
+**Manager:** Okay, I'll assign a senior developer to help you resolve that issue. Junior Developer 2, any challenges on your end?
+
+**Junior Developer 2:** No, not at the moment. I'm on track with my tasks.
+
+**Manager:** Excellent. Keep up the good work. If you encounter any problems, don't hesitate to reach out for assistance. We're here to support you.
+
+**Junior Developer 1, Junior Developer 2:** Thank you, Manager.
+
+**Manager:** That's it for today's standup meeting. Have a productive day, everyone.""
+}
+```",
+3,software developement(python),"```
+{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [""Manager"", ""Junior1"", ""Junior2"", ""Junior3""],
+ ""transcript"": ""Manager: Good morning, team. Let's start today's standup meeting. Junior1, please share your progress on the software development project.
+
+Junior1: Good morning, Manager and team. Yesterday, I completed the design and implementation of the user interface for the new feature. Currently, I'm working on testing the UI and fixing any bugs that I find. I expect to complete this task by the end of the day.
+
+Manager: Thank you, Junior1. Junior2, what have you been working on?
+
+Junior2: Good morning, Manager and team. I worked on the backend integration for the new feature. I completed the database schema and wrote the code to connect the UI to the database. I also implemented the CRUD operations for the new feature. I'm currently testing the integration and fixing any issues that I find. I expect to complete this task by tomorrow.
+
+Manager: That's great, Junior2. Junior3, what's your status?
+
+Junior3: Good morning, Manager and team. I focused on the documentation for the new feature. I created a detailed user manual and a technical reference guide. I also updated the project wiki with the new information. I'm currently reviewing the documentation to ensure that it's accurate and complete. I expect to complete this task by the end of the day.
+
+Manager: Excellent work, Junior3. Are there any blockers or challenges that you're facing?
+
+Junior1: I'm having some issues with the UI testing. Some of the tests are failing, and I can't figure out why.
+
+Manager: Okay, I'll assign a senior developer to help you with that. Junior2, any challenges?
+
+Junior2: No, I'm not facing any challenges at the moment.
+
+Manager: Good to hear. Junior3, any blockers?
+
+Junior3: No, everything is going smoothly.
+
+Manager: That's great. Keep up the good work, team. If you encounter any problems, don't hesitate to reach out for help. The next standup meeting will be held tomorrow at the same time. Have a productive day!""
+}
+```",
+4,data science,"{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2"",
+  ""Junior 3"",
+  ""Junior 4""
+ ],
+ ""transcript"": [
+  ""Manager: Good morning, team. Let's start our daily standup meeting."",
+  ""Junior 1: Good morning, everyone. Yesterday, I completed the data cleaning and preprocessing tasks. Today, I'll be working on building the machine learning model."",
+  ""Junior 2: Good morning. Yesterday, I finished the data visualization tasks. Today, I'll be working on creating the final report and presentation."",
+  ""Junior 3: Good morning, all. Yesterday, I completed the data collection and analysis tasks. Today, I'll be working on developing the model evaluation metrics."",
+  ""Junior 4: Good morning. Yesterday, I worked on the literature review and background research. Today, I'll be starting the data exploration and feature engineering tasks."",
+  ""Manager: Thank you for your updates. Are there any blockers or challenges that you're facing?"",
+  ""Junior 1: I'm having some trouble understanding the requirements for the machine learning model. Could you provide some additional clarification?"",
+  ""Manager: Sure, I can help with that. I'll send you the updated requirements document after the meeting."",
+  ""Junior 2: I'm not sure how to create the interactive visualizations for the final report. Can someone provide some guidance or resources?"",
+  ""Junior 3: I'm having some difficulty finding the right evaluation metrics for the model. Can someone suggest some resources or best practices?"",
+  ""Manager: Those are all valid concerns. I'll make sure to provide you with the necessary support and resources. In the meantime, feel free to reach out to your teammates or myself if you need assistance."",
+  ""Manager: Is there anything else that anyone wants to discuss?"",
+  ""Junior 4: No, that's all for me."",
+  ""Manager: Great. Let's continue working on our tasks and keep each other updated. Thank you for your hard work and dedication."",
+  ""All: Thank you, Manager.""
+ ]
+}",
+5,wordpress development,"```
+{
+  ""date"": ""2019-05-23"",
+  ""time"": ""10:00 AM"",
+  ""attendess"": [""Manager"", ""Junior A"", ""Junior B"", ""Junior C"", ""Junior D"", ""Junior E""],
+  ""transcript"": {
+    ""Manager"": ""Good morning team. Let's start our daily standup meeting. Junior A, please give us a brief update on your progress on the WordPress development project.""
+
+    ""Junior A"": ""Good morning everyone. Yesterday, I completed the installation of WordPress and all the necessary plugins. I also created a custom theme and customized the homepage layout. Today, I'm going to start working on the blog posts and pages.""
+
+    ""Manager"": ""Sounds good. Junior B, what have you been working on?""
+
+    ""Junior B"": ""I've been working on the e-commerce integration. I've set up the WooCommerce plugin and added a few products to the store. I'm currently working on the checkout process.""
+
+    ""Manager"": ""Great. Junior C, what about you?""
+
+    ""Junior C"": ""I've been working on the mobile responsiveness of the website. I've made sure that the website looks and functions properly on all devices. I'm also working on adding some animations and transitions to make the website more user-friendly.""
+
+    ""Manager"": ""Excellent. Junior D, what are you working on?""
+
+    ""Junior D"": ""I've been working on the content management system. I've created a custom post type for the blog posts and pages. I've also added some custom fields to allow for more flexibility in the content.""
+
+    ""Manager"": ""Nice work. Junior E, how can you help the team to move forward the project in proper way?""
+
+    ""Junior E"": ""I've been working on the security of the website. I've installed a security plugin and configured it to protect the website from common attacks.""
+
+    ""Manager"": ""That's great to hear. It's important that we keep the website secure. Are there any blockers or challenges that you're facing?""
+
+    ""Junior A"": ""I'm having some issues with the image optimization plugin. It seems to be slowing down the website.""
+
+    ""Junior B"": ""I'm having trouble with the shipping rates. I can't seem to figure out how to set up free shipping for orders over a certain amount.""
+
+    ""Manager"": ""I'll look into those issues and get back to you. In the meantime, please keep up the good work. We're making great progress on this project.""
+
+    ""End of meeting.""
+  }
+}
+```",
+2,mobile development(android),"{
+""date"": ""2022-09-08"",
+""time"": ""10:00 AM"",
+""attendess"": [""Manager"", ""Junior 1"", ""Junior 2""],
+""transcript"": [
+""Manager: Good morning, everyone. Let's get started with our daily standup meeting."",
+""Junior 1: Good morning. Yesterday, I completed the task of creating the user interface for the new app. Today, I'm going to start working on the backend development."",
+""Junior 2: Good morning. Yesterday, I finished the task of integrating the payment gateway with the app. Today, I'm going to start working on adding new features to the app."",
+""Manager: Great work, everyone. Keep up the good work."",
+""Junior 1: I have a question. I'm not sure how to implement the search functionality in the app."",
+""Manager: That's a good question. Let me show you how to do it."",
+""Manager: [Explains how to implement the search functionality]."",
+""Junior 1: Thank you. That's very helpful."",
+""Manager: You're welcome. Does anyone else have any questions or concerns?"",
+""Junior 2: No, I don't have any questions."",
+""Manager: Okay, then let's continue working on our tasks. We'll have another standup meeting tomorrow at the same time."",
+""Everyone: Okay, thank you."",
+""Manager: You're welcome. Have a good day, everyone.""
+]
+}",
+3,software developement(java),"```json
+{
+    ""date"": ""2023-03-08"",
+    ""time"": ""10:00 AM"",
+    ""attendess"": [
+        ""Manager"",
+        ""Junior 1"",
+        ""Junior 2"",
+        ""Junior 3""
+    ],
+    ""transcript"": ""**Manager:** Good morning team. Let's start with our daily standup meeting. Junior 1, what did you complete yesterday?
+
+**Junior 1:** I completed the user interface for the new feature. I also fixed a few bugs that were reported by the QA team.
+
+**Manager:** Great work. Junior 2, what about you?
+
+**Junior 2:** I worked on the backend for the new feature. I also created a new API endpoint for the mobile app.
+
+**Manager:** Excellent. Junior 3, what did you work on?
+
+**Junior 3:** I worked on the database for the new feature. I also created a new table to store the user's data.
+
+**Manager:** Terrific. Now, let's talk about today's tasks. Junior 1, what are you planning to work on today?
+
+**Junior 1:** I'm going to work on the user interface for the mobile app. I'm also going to fix a few more bugs that were reported by the QA team.
+
+**Manager:** Sounds good. Junior 2, what about you?
+
+**Junior 2:** I'm going to work on the backend for the mobile app. I'm also going to create a new API endpoint for the web app.
+
+**Manager:** Perfect. Junior 3, what are your plans for today?
+
+**Junior 3:** I'm going to work on the database for the mobile app. I'm also going to create a new table to store the user's data.
+
+**Manager:** Fantastic. Does anyone have any blockers that they need help with?
+
+**Junior 1:** I'm having a little trouble with the user interface for the mobile app. I'm not sure how to make it responsive.
+
+**Manager:** I can help you with that. I'll come over to your desk after the meeting.
+
+**Junior 2:** I'm having a little trouble with the backend for the mobile app. I'm not sure how to connect it to the database.
+
+**Manager:** I can help you with that too. I'll come over to your desk after I'm done helping Junior 1.
+
+**Junior 3:** I'm not having any blockers at the moment.
+
+**Manager:** That's great. Well, that's all for today's standup meeting. Keep up the good work team.""
+}
+```",
+4,wordpress development,"```
+{
+ ""date"": ""2023-04-25"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2"",
+  ""Junior 3"",
+  ""Junior 4""
+ ],
+ ""transcript"": [
+  ""Manager: Good morning, team. Let's start our daily standup meeting."",
+  ""Junior 1: Good morning, everyone. Yesterday, I completed the design for the new website pages. Today, I will start developing the HTML and CSS."",
+  ""Junior 2: Good morning. Yesterday, I worked on the backend of the website. I integrated the database and added the necessary functionalities. Today, I will continue working on the backend and start testing the website."",
+  ""Junior 3: Good morning. Yesterday, I worked on the content for the website. I wrote the copy for the homepage and the about us page. Today, I will continue writing the content for the rest of the pages."",
+  ""Junior 4: Good morning. Yesterday, I worked on the deployment of the website. I set up the server and deployed the website. Today, I will test the website and make sure it is working properly."",
+  ""Manager: Thank you, everyone, for your updates. Are there any blockers or challenges you are facing?"",
+  ""Junior 1: I am facing a challenge with the design of the contact page. I am not sure how to make it visually appealing and easy to use."",
+  ""Manager: Junior 2, can you help Junior 1 with the design of the contact page?"",
+  ""Junior 2: Sure, I can help. I have some experience with designing contact pages. We can work together to come up with a visually appealing and user-friendly design."",
+  ""Manager: Great. Thank you, Junior 2. Junior 1, let me know if you need any further assistance."",
+  ""Junior 1: Thank you, Manager. I appreciate your help."",
+  ""Manager: No problem. That's what I am here for. Is there anything else we need to discuss?"",
+  ""Junior 3: I have a question about the content for the about us page. I am not sure how to write it in a way that is both informative and engaging."",
+  ""Manager: That's a good question. Junior 4, can you help Junior 3 with writing the content for the about us page?"",
+  ""Junior 4: Sure, I can help. I have some experience with writing website content. We can work together to come up with a compelling and informative about us page."",
+  ""Manager: Great. Thank you, Junior 4. Junior 3, let me know if you need any further assistance."",
+  ""Junior 3: Thank you, Manager. I appreciate your help."",
+  ""Manager: No problem. That's what I am here for. Well, that's all for today's standup meeting. Keep up the good work, team. We are making great progress on the project."",
+  ""Junior 1, Junior 2, Junior 3, Junior 4: Thank you, Manager.""
+ ]
+}
+```",
+5,software developement(python),"```
+{
+    ""date"": ""2023-03-08"",
+    ""time"": ""10:00 AM"",
+    ""attendess"": [""Manager"", ""Junior 1"", ""Junior 2"", ""Junior 3"", ""Junior 4"", ""Junior 5""],
+    ""transcript"": [
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Good morning, team. Let's start with our daily standup meeting. Junior 1, can you please share your progress on the software development project?""
+        },
+        {
+            ""speaker"": ""Junior 1"",
+            ""text"": ""Thank you, Manager. Yesterday, I completed the coding for the user interface and integrated it with the database. Today, I will work on testing the user interface and fixing any bugs that I find.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Great work, Junior 1. Junior 2, what about you?""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""I completed the coding for the user authentication and authorization module. Today, I will focus on writing unit tests for the module and integrating it with the rest of the application.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Good progress, Junior 2. Junior 3, what's your status?""
+        },
+        {
+            ""speaker"": ""Junior 3"",
+            ""text"": ""I worked on the database design and created the necessary tables. Today, I will start populating the tables with test data and write SQL queries to retrieve and manipulate the data.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Excellent, Junior 3. Junior 4, how are you doing?""
+        },
+        {
+            ""speaker"": ""Junior 4"",
+            ""text"": ""I completed the coding for the API endpoints and wrote unit tests for them. Today, I will work on integrating the API endpoints with the frontend and backend of the application.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Keep up the good work, Junior 4. Junior 5, what's your update?""
+        },
+        {
+            ""speaker"": ""Junior 5"",
+            ""text"": ""I worked on the documentation for the project and created a user manual and a technical guide. Today, I will start writing the installation and deployment instructions for the application.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Thank you, everyone, for your updates. Do any of you have any blockers or challenges that you need help with?""
+        },
+        {
+            ""speaker"": ""Junior 3"",
+            ""text"": ""I'm having some trouble writing SQL queries to retrieve and manipulate data from the database. Can someone help me with that?""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""I'm also facing a similar issue. I'm not familiar with SQL and need some guidance on how to write efficient queries.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""I'll assign Junior 1 to assist both of you with SQL queries. Junior 1, can you help them out?""
+        },
+        {
+            ""speaker"": ""Junior 1"",
+            ""text"": ""Sure, Manager. I'll be happy to help Junior 2 and Junior 3 with their SQL queries.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Great. That's all for today's standup meeting. Keep up the good work, team. We're making progress on this project.""
+        }
+    ]
+}
+```",
+2,software developement(python),"```
+{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2""
+ ],
+ ""transcript"": [
+  ""Manager: Good morning, team. Let's start our daily standup meeting."",
+  ""Junior 1: Good morning. Yesterday, I completed the user interface for the new feature. Today, I'll be working on the backend logic."",
+  ""Junior 2: Good morning. I fixed the bugs in the payment module. Today, I'll be integrating the new payment gateway."",
+  ""Manager: Great work, team. Keep up the good work."",
+  ""Junior 1: I have a question about the new feature. How should I handle the error messages?"",
+  ""Manager: That's a good question. Let's discuss it after the meeting."",
+  ""Junior 2: I'm facing a blocker. The new payment gateway is not working with our current version of Python. We need to upgrade to Python 3.8."",
+  ""Manager: I see. I'll talk to the DevOps team about upgrading Python. In the meantime, you can work on something else."",
+  ""Junior 1: Thank you, sir."",
+  ""Manager: That's all for today. Have a productive day, team."",
+  ""Junior 1 and Junior 2: Thank you, sir.""
+ ]
+}
+```",
+3,data science,"```json
+{
+  ""date"": ""2023-03-08"",
+  ""time"": ""10:00 AM"",
+  ""attendess"": [
+    ""Manager"",
+    ""Junior 1"",
+    ""Junior 2"",
+    ""Junior 3""
+  ],
+  ""transcript"": [
+    {
+      ""speaker"": ""Manager"",
+      ""message"": ""Good morning, team. Let's start today's standup meeting.""
+    },
+    {
+      ""speaker"": ""Junior 1"",
+      ""message"": ""Yesterday, I completed the data cleaning and preprocessing tasks for the customer segmentation project. Today, I plan to start building the machine learning models.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""message"": ""Good work, Junior 1. Keep me updated on your progress with the machine learning models.""
+    },
+    {
+      ""speaker"": ""Junior 2"",
+      ""message"": ""I finished analyzing the customer survey data and identified several key trends. I'm currently working on creating a presentation to share the results with the team.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""message"": ""Excellent, Junior 2. Your insights from the customer survey data will be valuable for our decision-making. I look forward to seeing your presentation.""
+    },
+    {
+      ""speaker"": ""Junior 3"",
+      ""message"": ""I've been working on developing a new algorithm for anomaly detection. I've run some initial tests and the results are promising. I'm planning to fine-tune the algorithm and apply it to the fraud detection project.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""message"": ""That sounds exciting, Junior 3. Keep me posted on your progress with the anomaly detection algorithm. It could have potential applications in multiple projects.""
+    },
+    {
+      ""speaker"": ""Junior 3"",
+      ""message"": ""Thank you, sir. I also have a question. I'm facing some challenges in accessing the necessary data for the fraud detection project. Can you please help me with that?""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""message"": ""Certainly. I'll reach out to the data engineering team to ensure you have the required access. In the meantime, if you have any other blockers that prevent you from making progress, please let me know.""
+    },
+    {
+      ""speaker"": ""Junior 1"",
+      ""message"": ""That's all from my side for today, sir.""
+    },
+    {
+      ""speaker"": ""Junior 2"",
+      ""message"": ""Me too, everything is on track.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""message"": ""Alright, team. Thank you for your updates. Keep up the good work and let me know if you encounter any challenges. We'll meet again tomorrow for another standup.""
+    }
+  ]
+}
+```",
+4,web deveopment,"{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [""Manager"", ""Junior1"", ""Junior2"", ""Junior3"", ""Junior4""],
+ ""transcript"": ""Manager: Good morning, everyone. Let's start our daily standup meeting. Junior1, can you please share your progress?
+
+ Junior1: Good morning, everyone. Yesterday, I completed the design for the new user interface. I also started working on the backend code. I currently have the login and registration functionality working.
+
+ Manager: Great work, Junior1. Keep up the good work.
+
+ Junior2: Good morning. Yesterday, I worked on the frontend code for the new user interface. I also created a prototype for the mobile version of the website.
+
+ Manager: Excellent, Junior2. The mobile version of the website is an important feature.
+
+ Junior3: Good morning. Yesterday, I worked on the database schema for the project. I also created a script to import the initial data.
+
+ Manager: Thank you for your hard work, Junior3.
+
+ Junior4: Good morning. Yesterday, I worked on the testing framework for the project. I also wrote some unit tests for the login functionality.
+
+ Manager: Awesome. Having a solid testing framework is crucial for the project.
+
+ Manager: Are there any blockers or challenges that anyone is facing?
+
+ Junior1: I'm having some trouble integrating the frontend and backend code.
+
+ Manager: Junior2, can you help Junior1 with that?
+
+ Junior2: Sure, I'll be happy to help.
+
+ Junior3: I'm not sure how to handle the data validation for the user input.
+
+ Manager: Junior4, can you provide some guidance to Junior3 on data validation?
+
+ Junior4: Certainly, I'll be glad to help.
+
+ Manager: Great. It seems like everyone is making good progress. Keep up the good work. We'll have another standup meeting tomorrow at the same time. If anyone has any questions or concerns, please feel free to reach out to me.
+
+ [The meeting concludes]""
+}",
+5,data science,"{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM"",
+ ""attendees"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2"",
+  ""Junior 3"",
+  ""Junior 4"",
+  ""Junior 5""
+ ],
+ ""transcript"": ""**Manager:** Good morning, team. Let's start with our daily standup. Junior 1, what did you accomplish yesterday?
+
+**Junior 1:** I completed the data cleaning and preprocessing for the customer churn analysis project. I also created a baseline model using a decision tree classifier.
+
+**Manager:** Great work. And what are you working on today?
+
+**Junior 1:** I'm going to start fine-tuning the model and evaluating its performance on the test set. I'll also be creating visualizations to present the results.
+
+**Manager:** Sounds good. Junior 2, what about you?
+
+**Junior 2:** I finished building the dashboard for the social media analytics project. I also collected data from various sources and integrated it into the dashboard.
+
+**Manager:** That's impressive. And what's next?
+
+**Junior 2:** I'm going to conduct user testing on the dashboard to gather feedback and make improvements. I'll also be writing a report summarizing the findings.
+
+**Manager:** Excellent. Junior 3, what have you been up to?
+
+**Junior 3:** I've been working on the natural language processing project. I trained a language model on a large corpus of text data and evaluated its performance on various tasks.
+
+**Manager:** That's great progress. What's your plan for today?
+
+**Junior 3:** I'm going to fine-tune the language model on a specific domain and evaluate its performance on a downstream task. I'll also be exploring different techniques to improve the model's accuracy.
+
+**Manager:** Keep up the good work. Junior 4, how about you?
+
+**Junior 4:** I've been working on the computer vision project. I trained a deep learning model to detect objects in images and evaluated its performance on a standard dataset.
+
+**Manager:** That's exciting. What are you going to do next?
+
+**Junior 4:** I'm going to apply the model to a real-world dataset and evaluate its performance in a practical setting. I'll also be exploring different techniques to improve the model's robustness and accuracy.
+
+**Manager:** Fantastic. Junior 5, what have you been working on?
+
+**Junior 5:** I've been working on the reinforcement learning project. I trained a deep reinforcement learning agent to play a game and evaluated its performance against a human opponent.
+
+**Manager:** That's very interesting. What's your next step?
+
+**Junior 5:** I'm going to explore different reinforcement learning algorithms and compare their performance on the game. I'll also be investigating techniques to improve the agent's learning speed and efficiency.
+
+**Manager:** I'm impressed with the progress you've all made. Keep up the good work, and let me know if you encounter any challenges or have any questions.
+
+**Team:** Thank you, Manager. We appreciate your support.
+
+**Manager:** You're welcome. Let's continue to work diligently and achieve our project goals.""
+}",
+2,mobile development(android),"```
+{
+  ""date"": ""2023-03-08"",
+  ""time"": ""10:00 AM"",
+  ""attendess"": [
+    ""Manager"",
+    ""Junior Developer 1"",
+    ""Junior Developer 2""
+  ],
+  ""transcript"": [
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""Good morning, team. Let's start with our daily standup meeting. Junior Developer 1, can you please share your progress on the mobile development project?""
+    },
+    {
+      ""speaker"": ""Junior Developer 1"",
+      ""text"": ""Sure. Yesterday, I completed the integration of the payment gateway with the app. I also fixed a few bugs related to user authentication. Currently, I'm working on implementing the push notification feature. I expect to have a working prototype by the end of the day.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""Great work. Keep up the good progress. Junior Developer 2, what have you been working on?""
+    },
+    {
+      ""speaker"": ""Junior Developer 2"",
+      ""text"": ""I worked on the user interface for the app. I designed a few new screens and added some animations to improve the user experience. I also started working on the backend API for the app. I've set up the database and implemented a few endpoints. I'm currently working on integrating the frontend and backend together.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""That's great progress as well. I'm glad to see that you're both making good use of your time. Are there any blockers or challenges that you're facing?""
+    },
+    {
+      ""speaker"": ""Junior Developer 1"",
+      ""text"": ""I'm having some trouble integrating the push notification feature with the app. I'm not sure how to handle the notifications when the app is in the background.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""I see. I'll assign a senior developer to help you with that. Junior Developer 2, do you have any blockers?""
+    },
+    {
+      ""speaker"": ""Junior Developer 2"",
+      ""text"": ""No, I don't have any blockers at the moment.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""That's great. Keep up the good work. We're on track to deliver the project on time. Let's continue with our daily standup meetings to ensure that we're all aligned and making progress.""
+    }
+  ]
+}
+```",
+3,data analytics,"```
+{
+ ""date"": ""2023-08-24"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [""Manager"", ""Junior 1"", ""Junior 2"", ""Junior 3""],
+ ""transcript"": [
+  ""Manager: Good morning, team. Let's start our daily standup meeting."",
+  ""Junior 1: Yesterday, I completed the data cleaning and preprocessing tasks. Today, I'll be working on building the machine learning model."",
+  ""Junior 2: I finished the data visualization for the marketing campaign analysis. Today, I'll be presenting the results to the marketing team."",
+  ""Junior 3: I've been working on the customer segmentation model. I've encountered a blocker: the customer data is not in the right format. I've reached out to the data team to resolve this."",
+  ""Manager: Thank you for the updates. Junior 3, can you please follow up with the data team to ensure that the issue is resolved as soon as possible?"",
+  ""Junior 3: Yes, I'll do that."",
+  ""Manager: Are there any other blockers or concerns?"",
+  ""Junior 1: No, everything is going smoothly for me."",
+  ""Junior 2: Same here."",
+  ""Manager: Great. Keep up the good work. We'll have another standup meeting tomorrow at the same time."",
+  ""All: Thank you, Manager.""
+ ]
+}
+```",
+4,web deveopment,"{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM UTC"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2"",
+  ""Junior 3"",
+  ""Junior 4""
+ ],
+ ""transcript"": [
+  ""Manager: Good morning, team. Let's start our daily standup meeting."",
+  ""Junior 1: Good morning, everyone. Yesterday, I completed the task of designing the user interface for the new feature. Today, I'm going to start working on the implementation."",
+  ""Junior 2: Good morning. Yesterday, I worked on fixing some bugs in the existing codebase. Today, I'm going to continue working on that and also start exploring some new features that we can add to the application."",
+  ""Junior 3: Good morning, team. Yesterday, I worked on creating the database schema for the new feature. Today, I'm going to start working on the API endpoints that will interact with the database."",
+  ""Junior 4: Good morning. Yesterday, I worked on writing some unit tests for the new feature. Today, I'm going to continue working on that and also start working on the integration tests."",
+  ""Manager: Great work, everyone. I'm glad to see that you're all making progress on your tasks. Are there any blockers or challenges that you're facing?"",
+  ""Junior 1: I'm having some trouble understanding the requirements for the new feature. Can you please help me clarify some things?"",
+  ""Manager: Sure, I'd be happy to help. Just let me know what you're struggling with."",
+  ""Junior 2: I'm also having some trouble getting the new feature to integrate with the existing codebase. Do you have any suggestions?"",
+  ""Manager: That's a good question. I think it would be helpful to create a separate branch for the new feature so that you can work on it without affecting the existing codebase. Once the feature is complete, you can then merge the changes back into the main branch."",
+  ""Junior 3: Thank you, that's a great suggestion."",
+  ""Manager: No problem. Is there anything else that I can help you with?"",
+  ""Junior 4: No, I think we're good for now."",
+  ""Manager: Okay, then let's continue working on our tasks. We'll meet again tomorrow for our next standup meeting."",
+  ""Everyone: See you tomorrow.""
+ ]
+}",
+5,software developement(python),"``` JSON
+{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [""Manager"", ""Junior 1"", ""Junior 2"", ""Junior 3"", ""Junior 4"", ""Junior 5""],
+ ""transcript"": ""Manager: Good morning, team. Let's start our daily standup meeting. Junior 1, can you please share your progress on the software development project?
+
+Junior 1: Sure. Yesterday, I completed the coding for the login module, and I also fixed a couple of bugs in the user registration module. Today, I plan to start working on the admin panel module.
+
+Manager: Great work, Junior 1. Keep up the good work.
+
+Junior 2: I completed the design for the main interface of the software, and I also gathered feedback from a few users. Today, I'll be working on implementing the design.
+
+Manager: Excellent, Junior 2. I'm looking forward to seeing the final design.
+
+Junior 3: I've finished writing the code for the data storage module, and I also created a database schema for storing the user data. Today, I'm going to test the module and fix any issues that might arise.
+
+Manager: That's great progress, Junior 3. Make sure to thoroughly test the module before moving on.
+
+Junior 4: I've been working on the user authentication module, and I've completed the coding for the password encryption algorithm. Today, I'm going to integrate the module with the login and registration modules.
+
+Manager: Sounds good, Junior 4. Let me know if you encounter any problems during integration.
+
+Junior 5: I worked on the documentation for the software, and I've created a detailed user guide. Today, I'll be adding some more examples and screenshots to the guide.
+
+Manager: That's great, Junior 5. Clear documentation is essential for any software project.
+
+Manager: Are there any blockers or concerns that anyone wants to raise?
+
+Junior 2: I'm a bit concerned about the compatibility of the software with different operating systems.
+
+Manager: That's a valid concern. Let's discuss the issue in more detail after the meeting.
+
+Manager: Overall, I'm impressed with the progress you've all made. Keep up the good work, and let's aim to complete the project on time.
+
+Meeting adjourned at 10:30 AM.
+}
+```",
+2,devops,"```JSON
+{
+    ""date"": ""2023-03-08"",
+    ""time"": ""10:00 AM"",
+    ""attendees"": [
+        ""Manager"",
+        ""Junior 1"",
+        ""Junior 2""
+    ],
+    ""transcript"": [
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Good morning, everyone. Let's start with our daily standup meeting.""
+        },
+        {
+            ""speaker"": ""Junior 1"",
+            ""text"": ""Yesterday, I completed the task of setting up the Jenkins pipeline for the project. Today, I'll be working on integrating the code with the pipeline.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Great work, Junior 1. Keep up the good progress.""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""Yesterday, I finished writing the unit tests for the new feature. Today, I'll be working on deploying the code to the staging environment.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Excellent, Junior 2. I'm glad to see that you're making progress on the new feature.""
+        },
+        {
+            ""speaker"": ""Junior 1"",
+            ""text"": ""I have a question about the Jenkins pipeline. I'm not sure how to configure the post-build steps.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""That's a good question, Junior 1. Let me help you with that. The post-build steps are used to perform tasks after the build process is complete. You can use them to send notifications, run tests, or deploy the code to a specific environment.""
+        },
+        {
+            ""speaker"": ""Junior 1"",
+            ""text"": ""Thank you, Manager. That's very helpful.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""I'm glad I could help. Does anyone else have any questions or concerns?""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""No, I think we're all good to go for today.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Alright, then. Let's continue working hard and keep moving the project forward. Thank you for your updates.""
+        }
+    ]
+}
+```",
+3,wordpress development,"```json
+{
+  ""date"": ""2023-07-10"",
+  ""time"": ""10:00 AM"",
+  ""attendess"": [
+    ""Project Manager"",
+    ""Junior Developer 1"",
+    ""Junior Developer 2"",
+    ""Junior Developer 3""
+  ],
+  ""transcript"": [
+    {
+      ""speaker"": ""Project Manager"",
+      ""text"": ""Good morning team. Let's start with our daily standup meeting.""
+    },
+    {
+      ""speaker"": ""Junior Developer 1"",
+      ""text"": ""Yesterday, I completed the task of creating the home page for the website. Today, I'll be working on the about page.""
+    },
+    {
+      ""speaker"": ""Junior Developer 2"",
+      ""text"": ""I finished the blog page yesterday and I'll be working on the contact page today.""
+    },
+    {
+      ""speaker"": ""Junior Developer 3"",
+      ""text"": ""I've been working on the e-commerce functionality and I've encountered a blocker. I can't seem to get the payment gateway to work.""
+    },
+    {
+      ""speaker"": ""Project Manager"",
+      ""text"": ""Okay, Junior Developer 3, I'll assign a senior developer to help you with that. In the meantime, you can continue working on other aspects of the e-commerce functionality.""
+    },
+    {
+      ""speaker"": ""Project Manager"",
+      ""text"": ""Is there anything else that anyone wants to discuss?""
+    },
+    {
+      ""speaker"": ""Junior Developer 2"",
+      ""text"": ""I have a question about the design of the contact page. Should I use a form or a chat widget?""
+    },
+    {
+      ""speaker"": ""Project Manager"",
+      ""text"": ""That's a good question. I think a form would be better. It's more traditional and it's easier for users to fill out.""
+    },
+    {
+      ""speaker"": ""Project Manager"",
+      ""text"": ""Okay, team. That's all for today's standup meeting. Keep up the good work.""
+    }
+  ]
+}
+```",
+4,devops,"```
+{
+  ""date"": ""2023-03-08"",
+  ""time"": ""10:00 AM"",
+  ""attendess"": [
+    ""Manager"",
+    ""Junior 1"",
+    ""Junior 2"",
+    ""Junior 3"",
+    ""Junior 4""
+  ],
+  ""transcript"": [
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""Good morning team! Let's start our daily standup meeting.""
+    },
+    {
+      ""speaker"": ""Junior 1"",
+      ""text"": ""Yesterday, I completed the deployment of the new application to the production environment. I also worked on fixing a few bugs.""
+    },
+    {
+      ""speaker"": ""Junior 2"",
+      ""text"": ""I was responsible for setting up the new Jenkins pipeline for our project. I also worked on automating some of the manual testing tasks.""
+    },
+    {
+      ""speaker"": ""Junior 3"",
+      ""text"": ""I focused on developing new features for our application. I also conducted some performance testing and fixed some performance issues.""
+    },
+    {
+      ""speaker"": ""Junior 4"",
+      ""text"": ""I worked on refactoring some of our legacy code. I also did some research on new technologies that we can use to improve our development process.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""Great work, team! I'm impressed with your progress.""
+    },
+    {
+      ""speaker"": ""Junior 1"",
+      ""text"": ""I have a question about the new deployment process. Can someone help me out?""
+    },
+    {
+      ""speaker"": ""Junior 2"",
+      ""text"": ""Sure, I'd be happy to help.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""Okay, we can discuss that in more detail after the meeting. In the meantime, let's continue with the standup.""
+    },
+    {
+      ""speaker"": ""Junior 3"",
+      ""text"": ""I'm currently working on a new feature for our application. I'm also looking into improving the performance of our application.""
+    },
+    {
+      ""speaker"": ""Junior 4"",
+      ""text"": ""I'm continuing to work on refactoring our legacy code. I'm also exploring new technologies that we can use to improve our development process.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""Sounds good. Keep up the good work!""
+    },
+    {
+      ""speaker"": ""Junior 1"",
+      ""text"": ""Thanks! I will.""
+    },
+    {
+      ""speaker"": ""Junior 2"",
+      ""text"": ""Me too.""
+    },
+    {
+      ""speaker"": ""Junior 3"",
+      ""text"": ""Same here.""
+    },
+    {
+      ""speaker"": ""Junior 4"",
+      ""text"": ""Definitely.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""text"": ""Okay, that's all for our daily standup meeting. Thanks again for your hard work!""
+    }
+  ]
+}
+```",
+5,mobile application development(swift),"```json
+{
+    ""date"": ""2023-03-08"",
+    ""time"": ""10:00 AM"",
+    ""attendess"": [""Manager"", ""Junior 1"", ""Junior 2"", ""Junior 3"", ""Junior 4"", ""Junior 5""],
+    ""transcript"": [
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Good morning, team. Let's start our daily standup meeting.""
+        },
+        {
+            ""speaker"": ""Junior 1"",
+            ""text"": ""Yesterday, I completed the UI design for the main screen of the app.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Great work, Junior 1. Keep up the good work.""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""I finished developing the login and registration functionality.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""That's great news, Junior 2. We're making progress.""
+        },
+        {
+            ""speaker"": ""Junior 3"",
+            ""text"": ""I encountered a blocker while working on the API integration. The documentation is unclear, and I'm having trouble connecting to the server.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""I see. Junior 4, can you help Junior 3 with the API integration?""
+        },
+        {
+            ""speaker"": ""Junior 4"",
+            ""text"": ""Sure, I'm familiar with that API. I'll help Junior 3 after I finish my current task.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Thank you, Junior 4. Junior 3, let me know if you need any further assistance.""
+        },
+        {
+            ""speaker"": ""Junior 5"",
+            ""text"": ""I've been working on the testing and debugging process. I've found several bugs and fixed them.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Excellent, Junior 5. It's important to catch bugs early on.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""That's all for today's standup meeting. Keep up the good work, team. We're on track to deliver the project on time and within budget.""
+        }
+    ]
+}
+```",
+2,mobile development(android),"```json
+{
+    ""date"": ""2023-03-08"",
+    ""time"": ""10:00 AM"",
+    ""attendess"": [
+        ""Manager"",
+        ""Junior Developer 1"",
+        ""Junior Developer 2""
+    ],
+    ""transcript"": 
+
+{
+    ""Manager"": ""Good morning, team. Let's start our daily standup meeting."",
+    ""Junior Developer 1"": ""Good morning, everyone. Yesterday, I completed the task of integrating the payment gateway API into the app. Today, I'll be working on implementing the user authentication feature."",
+    ""Junior Developer 2"": ""Hey everyone. Yesterday I finished designing the user interface for the login and registration screens. Currently, I'm working on the implementation of these screens in the app."",
+    ""Manager"": ""That's great progress. Keep up the good work."",
+    ""Junior Developer 1"": ""I have a question about the payment gateway integration. I'm facing an issue with the security certificate. Can you help me with that?"",
+    ""Manager"": ""Sure, I can help you with that. Let's discuss it after the meeting."",
+    ""Junior Developer 2"": ""I have no blockers at the moment. I can continue working on the user authentication feature."",
+    ""Manager"": ""Perfect. Let's continue with our tasks and meet again tomorrow for our daily standup meeting. Thank you all."",
+    ""Junior Developer 1"": ""Thank you."",
+    ""Junior Developer 2"": ""Thanks, Manager."",
+}
+}
+```",
+3,software developement(python),"```
+{
+  ""date"": ""2023-03-08"",
+  ""time"": ""10:00 AM"",
+  ""attendess"": [
+    ""Manager"",
+    ""Junior 1"",
+    ""Junior 2"",
+    ""Junior 3""
+  ],
+  ""transcript"": [
+    ""Manager: Good morning, team. Let's start with our daily standup meeting."",
+    ""Junior 1: Yesterday, I completed the user interface for the new feature. Today, I'm going to start working on the backend code."",
+    ""Junior 2: Yesterday, I fixed the bug in the search function. Today, I'm going to start working on the new reporting feature."",
+    ""Junior 3: Yesterday, I finished writing the unit tests for the new feature. Today, I'm going to start working on the integration tests."",
+    ""Manager: Great progress, everyone. Keep up the good work."",
+    ""Junior 1: I have a question about the new feature. How should I handle the edge case where the user enters an invalid input?"",
+    ""Manager: That's a good question. Let's discuss it after the meeting."",
+    ""Manager: Are there any blockers that are preventing you from completing your tasks?"",
+    ""Junior 2: I'm having trouble getting the new reporting feature to work. I've been trying to debug it for a few hours, but I can't find the problem."",
+    ""Manager: I'll assign a senior developer to help you with that. Please let me know if you have any other questions."",
+    ""Junior 2: Thank you."",
+    ""Manager: That's all for today's meeting. Thank you for your time.""
+  ]
+}
+```",
+4,software developement(python),"```
+{
+    ""date"": ""2023-03-08"",
+    ""time"": ""10:00 AM"",
+    ""attendess"": [
+        ""Manager"",
+        ""Junior 1"",
+        ""Junior 2"",
+        ""Junior 3"",
+        ""Junior 4""
+    ],
+    ""transcript"": [
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Good morning, team. Let's start our daily standup meeting.""
+        },
+        {
+            ""speaker"": ""Junior 1"",
+            ""text"": ""Yesterday, I completed the user interface for the new feature. Today, I'll be working on the backend code.""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""I finished the unit tests for the new feature. Today, I'll be working on the integration tests.""
+        },
+        {
+            ""speaker"": ""Junior 3"",
+            ""text"": ""I'm still working on the documentation for the new feature. I'm having some trouble finding the right words to explain the new functionality. I'm hoping to finish it today.""
+        },
+        {
+            ""speaker"": ""Junior 4"",
+            ""text"": ""I'm stuck on a bug in the new feature. I've been trying to fix it for the past few hours, but I can't seem to find the problem. I'm hoping someone can help me out.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Thanks for the updates, everyone. I'm glad to hear that the project is progressing well. Junior 4, I'll assign someone to help you with the bug after the meeting. In the meantime, keep trying to fix it. If you're still stuck, you can always ask for help.""
+        },
+        {
+            ""speaker"": ""Junior 4"",
+            ""text"": ""Thanks, Manager. I appreciate it.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""That's all for today's standup meeting. Keep up the good work, team!""
+        }
+    ]
+}
+```",
+5,software developement(python),"```JSON
+{
+  ""date"": ""2023-03-08"",
+  ""time"": ""10:00 AM"",
+  ""attendants"": [
+    ""Manager"",
+    ""Junior 1"",
+    ""Junior 2"",
+    ""Junior 3"",
+    ""Junior 4"",
+    ""Junior 5""
+  ],
+  ""transcript"": [
+    {
+      ""speaker"": ""Manager"",
+      ""message"": ""Good morning, team. Let's start our daily standup meeting.""
+    },
+    {
+      ""speaker"": ""Junior 1"",
+      ""message"": ""Yesterday, I completed the task of developing the user interface for the new software module. Today, I plan to start working on the backend logic.""
+    },
+    {
+      ""speaker"": ""Junior 2"",
+      ""message"": ""I finished writing the code for the database connectivity. Now, I'm working on integrating it with the user interface.""
+    },
+    {
+      ""speaker"": ""Junior 3"",
+      ""message"": ""I've been testing the software module and found a few bugs. I'm currently working on fixing them.""
+    },
+    {
+      ""speaker"": ""Junior 4"",
+      ""message"": ""I encountered a blocker while working on the software module. I'm having trouble understanding the algorithm that needs to be implemented. I'll need some help from the team.""
+    },
+    {
+      ""speaker"": ""Junior 5"",
+      ""message"": ""I've been working on the documentation for the software module. I'm almost finished and will submit it for review by the end of today.""
+    },
+    {
+      ""speaker"": ""Manager"",
+      ""message"": ""Thank you for the updates, team. I appreciate your hard work. Junior 4, I'll assign a senior developer to help you with the algorithm issue. Everyone else, please continue working on your tasks and keep me updated on your progress.""
+    }
+  ]
+}
+```",
+2,software developement(java),"{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior Developer 1"",
+  ""Junior Developer 2""
+ ],
+ ""transcript"": ""Manager: Good morning, team. Let's start our daily standup meeting. Junior Developer 1, what did you complete yesterday?
+
+Junior Developer 1: Good morning, Manager. Yesterday, I finished working on the new user interface for the customer portal. I also fixed a few bugs that were reported by the QA team.
+
+Manager: Great work. And what are you planning to work on today?
+
+Junior Developer 1: Today, I'll be working on adding new features to the customer portal. I'll also be starting work on a new mobile app for the company.
+
+Manager: Excellent. Junior Developer 2, what about you? What did you accomplish yesterday?
+
+Junior Developer 2: Good morning, Manager. Yesterday, I completed the development of the new API for the customer portal. I also worked on fixing a few issues with the database.
+
+Manager: Well done. And what are your plans for today?
+
+Junior Developer 2: Today, I'll be working on adding new endpoints to the API. I'll also be starting work on a new microservice for the company.
+
+Manager: Fantastic. It seems like we're all making good progress on our projects. Are there any blockers or challenges that you're facing?
+
+Junior Developer 1: I'm having a little trouble with the new mobile app. I'm not sure how to implement some of the features that the client wants.
+
+Manager: Don't worry, we can work through that together. I'll schedule a meeting with you later today to help you troubleshoot the issue.
+
+Junior Developer 2: I'm also facing a small challenge. I'm not sure how to connect the new microservice to the existing system.
+
+Manager: That's a good question. I'll have our senior developer take a look at it and help you out.
+
+Manager: Alright, team. It sounds like we're all on track. Keep up the good work and let me know if you need anything. Thanks for a productive meeting.
+
+Junior Developer 1: Thank you, Manager.
+
+Junior Developer 2: Thanks, Manager.""
+}",
+3,mobile application development(swift),"```
+{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [""Manager"", ""Junior 1"", ""Junior 2"", ""Junior 3""],
+ ""transcript"": [
+  ""Manager: Good morning, team. Welcome to our daily standup meeting."",
+  ""Junior 1: Hello! I completed the UI design for the home screen."",
+  ""Manager: Great work. Is there anything else you're working on?"",
+  ""Junior 1: Yes, I'm currently integrating the payment gateway."",
+  ""Manager: That's a critical task. Keep me updated on your progress."",
+  ""Junior 2: Hello! I faced a bug while implementing the push notifications. It seems like a conflict with the third-party library."",
+  ""Manager: I see. Let's discuss this after the meeting to find a solution."",
+  ""Junior 3: Hello! Yesterday, I completed testing the user registration and login features. Today, I'll be focusing on testing the user profile and messaging features."",
+  ""Manager: Excellent. These features are crucial for user engagement."",
+  ""Manager: Are there any blockers or dependencies that you need to address?"",
+  ""Junior 1: No, I can proceed with my tasks without any immediate dependencies."",
+  ""Junior 2: I'm waiting for Junior 3 to complete the testing of user profile and messaging features before I can integrate them into the main application."",
+  ""Junior 3: I expect to finish testing by this afternoon, so Junior 2 can start integrating them later today."",
+  ""Manager: Perfect. Please keep coordinating with each other to ensure smooth collaboration."",
+  ""Manager: Thank you, everyone. Keep up the good work and see you tomorrow."",
+  ""All: Thank you, Manager. See you tomorrow.""
+ ]
+}
+```",
+4,software developement(python),"``` 
+{
+ ""date"": ""2023-05-16"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2"",
+  ""Junior 3"",
+  ""Junior 4""
+ ],
+ ""transcript"": ""Manager: Good morning, team. Let's start our daily standup meeting. Junior 1, can you share your update?
+
+Junior 1: Good morning, everyone. Yesterday, I completed developing the user interface for the new software module. Today, I'm working on integrating the UI with the backend. I'm facing a minor issue with the data transfer, but I'm confident I can resolve it by the end of the day.
+
+Manager: Thank you, Junior 1. Junior 2, what about you?
+
+Junior 2: Good morning, team. I finished debugging the code for the new feature. I also wrote unit tests to ensure it's working as expected. Today, I'll be working on improving the performance of the feature by optimizing the algorithms and reducing the computational complexity.
+
+Manager: Great work, Junior 2. Junior 3, your turn.
+
+Junior 3: Good morning, everyone. I've been working on the documentation for the new software module. I've completed the user manual and the developer guide. Today, I'll be focusing on creating tutorial videos to help users understand the module's functionality.
+
+Manager: Excellent, Junior 3. Junior 4, what's your status?
+
+Junior 4: Good morning, team. I've been working on refactoring the legacy code to make it more maintainable and efficient. I've refactored several modules, and I'm currently working on updating the unit tests to ensure they cover the refactored code.
+
+Manager: Thank you, Junior 4. It seems like everyone is making good progress. Are there any blockers or concerns that you would like to discuss?
+
+Junior 2: I'm facing an issue with integrating the new feature with the existing codebase. There seems to be a conflict between the two, and I'm not sure how to resolve it.
+
+Manager: That's a good point, Junior 2. Let's discuss it after the meeting and see if we can find a solution.
+
+Manager: Any other blockers or concerns? No? Great. Let's continue working on our tasks, and we'll meet again tomorrow for another standup meeting. If you have any questions or concerns, please feel free to reach out to me or your teammates. Have a productive day, everyone!""
+}
+```",
+5,data cleaning,"{
+ ""date"": ""2023-05-10"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2"",
+  ""Junior 3"",
+  ""Junior 4"",
+  ""Junior 5""
+ ],
+ ""transcript"": [
+  ""**Manager:** Good morning, team. Let's start our daily standup meeting."",
+  ""**Junior 1:** Good morning, everyone. Yesterday, I completed cleaning the customer data for the past year. Today, I will be working on cleaning the sales data."",
+  ""**Junior 2:** Good morning. Yesterday, I cleaned the product data and identified some duplicate entries. Today, I will be working on removing the duplicates and ensuring the data is consistent."",
+  ""**Junior 3:** Good morning. Yesterday, I completed cleaning the financial data. Today, I will be working on creating a data visualization dashboard to present the cleaned data in a user-friendly format."",
+  ""**Junior 4:** Good morning. Yesterday, I worked on cleaning the marketing data. I identified several missing values and outliers. Today, I will be imputing the missing values and removing the outliers."",
+  ""**Junior 5:** Good morning. Yesterday, I started working on cleaning the employee data. I found some inconsistencies in the data format. Today, I will be working on correcting the data format and ensuring it is consistent."",
+  ""**Manager:** Thank you, team. Your progress looks great. Is there anything blocking your work?"",
+  ""**Junior 2:** I'm having trouble removing the duplicate entries from the product data. The data is very large, and I'm not sure how to efficiently identify and remove the duplicates."",
+  ""**Manager:** That's a good question. Let's brainstorm some solutions after the meeting. In the meantime, you can try using a data profiling tool to help you identify the duplicates more easily."",
+  ""**Junior 3:** I'm not sure how to create a data visualization dashboard. I've never done anything like that before."",
+  ""**Manager:** Don't worry. We have some resources that can help you. I'll share a link to a tutorial that will walk you through the process."",
+  ""**Manager:** Alright, team. Keep up the good work. We're on track to finish this project on time."",
+  ""**Juniors:** Thank you, Manager.""
+ ]
+}",
+2,software developement(python),"{
+ ""date"": ""2023-06-12"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2""
+ ],
+ ""transcript"": [
+  ""Manager: Good morning team. Let's start with our daily standup meeting."",
+  ""Junior 1: Good morning. Yesterday, I completed the task of creating the user interface for the software. Today, I will be working on integrating the database with the user interface."",
+  ""Junior 2: Good morning. Yesterday, I fixed the bug in the code that was causing the software to crash. Today, I will be working on adding new features to the software."",
+  ""Manager: Great work team. Keep up the good work."",
+  ""Junior 1: I have a question about the database integration. How do I connect the database to the user interface?"",
+  ""Manager: Good question. Let me explain it to you."",
+  ""[Manager explains the process of connecting the database to the user interface.]"",
+  ""Junior 1: Thank you. That's clear now."",
+  ""Manager: Is there anything else you need help with?"",
+  ""Junior 2: No, I think I'm good for now."",
+  ""Manager: Alright then. Let's continue with our work."",
+  ""Meeting ends.""
+ ]
+}",
+3,data cleaning,"{
+
+ ""date"": ""2022-07-26"",
+ ""time"": ""09:00 AM"",
+ ""attendess"": [""Manager"", ""Junior 1"", ""Junior 2"", ""Junior 3""],
+ ""transcript"": [
+  ""Manager: Good morning team. Let's start our daily standup meeting."",
+  ""Junior 1: Good morning manager. Yesterday, I completed cleaning the customer data set and identified duplicate entries. Today, I'll be working on removing the duplicates and enriching the data with additional information from other sources."",
+  ""Manager: Good work, Junior 1. Keep up the good progress."",
+  ""Junior 2: Good morning manager and team. Yesterday, I worked on cleaning the product data set. I identified some missing values and inconsistencies in the data. Today, I'll be imputing the missing values and correcting the inconsistencies."",
+  ""Manager: Great job, Junior 2. It's important to ensure the data is accurate and consistent before we proceed with further analysis."",
+  ""Junior 3: Good morning manager and team. Yesterday, I started working on the sales data set. However, I encountered an issue with the data format. The data is in a .csv file, but it seems to be corrupted. I'm currently trying to recover the data, but I might need some assistance."",
+  ""Manager: I see, Junior 3. Don't worry, we'll work together to resolve this issue. I'll assign another team member to assist you in recovering the data."",
+  ""Junior 3: Thank you, manager. I appreciate the help."",
+  ""Manager: Before we wrap up, are there any blockers or challenges that anyone is facing?"",
+  ""Junior 2: I'm having some difficulty finding the necessary documentation for the data cleaning process. It would be great if we could have a centralized repository for all the relevant documents."",
+  ""Manager: That's a valid point, Junior 2. I'll make sure to create a shared folder where we can store all the necessary documentation and resources."",
+  ""Junior 1: I agree, having a central repository for the documentation would be very helpful. It would save us a lot of time searching for the information we need."",
+  ""Manager: Alright team, let's continue our tasks for the day. Keep me updated on your progress and any challenges you face. We'll touch base again tomorrow in our next standup meeting."",
+  ""Attendees: Have a productive day, manager and team.""
+ ]
+}",
+4,devops,"```json
+{
+    ""date"": ""2023-03-08"",
+    ""time"": ""10:00 AM"",
+    ""attendess"": [
+        ""Manager"",
+        ""Junior 1"",
+        ""Junior 2"",
+        ""Junior 3"",
+        ""Junior 4""
+    ],
+    ""transcript"": [
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Good morning, everyone. Let's start with our daily standup meeting.""
+        },
+        {
+            ""speaker"": ""Junior 1"",
+            ""text"": ""Yesterday, I completed the task of setting up the Jenkins pipeline for our project. Today, I'll work on configuring the continuous integration and continuous delivery (CI/CD) process.""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""I worked on implementing the automated testing framework for our application. I'll continue working on writing test cases and integrating them with the CI/CD pipeline.""
+        },
+        {
+            ""speaker"": ""Junior 3"",
+            ""text"": ""I focused on creating the infrastructure for our application using Terraform. Today, I'll work on deploying the application to the cloud environment.""
+        },
+        {
+            ""speaker"": ""Junior 4"",
+            ""text"": ""I completed the task of setting up the monitoring and logging system for our application. Today, I'll work on configuring alerts and notifications.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Great progress, team! Are there any blockers or challenges you're facing?""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""I'm having some issues with the integration of the testing framework with the CI/CD pipeline. I'll need some assistance in debugging the issue.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Sure, I'll assign a senior engineer to help you with that. Let's regroup tomorrow to review the progress and address any other challenges.""
+        },
+        {
+            ""speaker"": ""Team"",
+            ""text"": ""Thank you, Manager.""
+        }
+    ]
+}
+```",
+5,web deveopment,"```
+{
+ ""date"": ""Monday, 12th April 2023"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2"",
+  ""Junior 3"",
+  ""Junior 4"",
+  ""Junior 5""
+ ],
+ ""transcript"": [
+  ""Manager: Good morning, everyone. Welcome to our daily standup meeting."",
+  ""Manager: Let's start by going around the table and having each of you share what you worked on yesterday, what you're working on today, and if you have any blockers."",
+  ""Junior 1: Yesterday, I finished working on the home page design. Today, I'll be working on the about page design."",
+  ""Junior 2: Yesterday, I completed the database schema. Today, I'll be working on the backend code."",
+  ""Junior 3: Yesterday, I worked on the user registration and login system. Today, I'll be adding more features to the system."",
+  ""Junior 4: Yesterday, I worked on the shopping cart feature. Today, I'll be integrating the payment gateway."",
+  ""Junior 5: Yesterday, I worked on the shipping and delivery module. Today, I'll be testing the system to make sure everything is working properly."",
+  ""Manager: Great work, everyone. I'm impressed with the progress you're all making."",
+  ""Manager: Does anyone have any blockers or challenges they're facing?"",
+  ""Junior 2: I'm having some trouble connecting the database to the backend code. I've tried a few different solutions, but I can't seem to get it to work."",
+  ""Manager: That's a common issue. Let me help you with that. Can you show me what you've tried so far?"",
+  ""Junior 2: Sure."",
+  ""Manager: (After a few minutes of troubleshooting) Okay, I think I've found the problem. You're using the wrong connection string. Here's the correct one."",
+  ""Junior 2: Thank you! That fixed it."",
+  ""Manager: I'm glad I could help. Remember, if you ever have any questions or problems, don't hesitate to ask for help."",
+  ""Manager: That's all for today's meeting. Keep up the good work, and I'll see you all tomorrow."",
+  ""All: Bye!""
+ ]
+}
+```",
+2,web deveopment,"```
+{
+    ""date"": ""2023-07-18"",
+    ""time"": ""10:00 AM"",
+    ""attendess"": [
+        ""Manager"",
+        ""Junior Developer 1"",
+        ""Junior Developer 2""
+    ],
+    ""transcript"": [
+        ""Manager: Hi team, let's get started with our daily standup meeting."",
+        ""Junior Developer 1: Yesterday, I worked on implementing the login feature for the new customer portal."",
+        ""Manager: That's great. How is it going so far?"",
+        ""Junior Developer 1: It's going well. I've completed the backend logic and I'm now working on the frontend design."",
+        ""Manager: That sounds promising. Keep up the good work."",
+        ""Junior Developer 2: Yesterday, I worked on adding a new feature to the product page that allows users to compare different products."",
+        ""Manager: Excellent. That's a valuable addition for our users."",
+        ""Junior Developer 2: I've completed the feature and it's currently under testing."",
+        ""Manager: That's fantastic. Once testing is complete, we can release it to production soon."",
+        ""Junior Developer 1: I'm currently working on the frontend design for the login feature."",
+        ""Manager: That's great. Make sure the design is user-friendly and consistent with the rest of the application."",
+        ""Junior Developer 2: I'm currently working on fixing a bug in the product comparison feature."",
+        ""Manager: Got it. Make sure you prioritize fixing the bug as it might be impacting users."",
+        ""Manager: Are there any blockers or challenges you're facing?"",
+        ""Junior Developer 1: I'm having some trouble with integrating the new login feature with the existing user management system."",
+        ""Manager: I'll assign a senior developer to help you with that. They'll be available to assist you after lunch."",
+        ""Junior Developer 2: I'm facing a challenge in optimizing the performance of the product comparison feature."",
+        ""Manager: I see. I'll connect you with our performance optimization team. They'll be able to provide guidance on improving the performance."",
+        ""Manager: That's all for today's standup meeting. Keep up the great work, team. If you encounter any further challenges, don't hesitate to reach out for assistance.""
+    ]
+}
+```",
+3,software developement(java),"{
+ ""date"": ""2022-08-09"",
+ ""time"": ""10:00 AM"",
+ ""attendees"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2"",
+  ""Junior 3""
+ ],
+ ""transcript"": [
+  ""Manager: Good morning, team. Let's start today's standup meeting."",
+  ""Junior 1: Good morning, everyone. Yesterday, I completed the task of developing the user interface for the new feature. Today, I will be working on integrating the UI with the backend."",
+  ""Junior 2: Good morning. Yesterday, I finished refactoring the code for the payment processing module. Today, I will be working on adding unit tests for the module."",
+  ""Junior 3: Good morning, team. Yesterday, I completed the task of integrating the new API with the existing system. Today, I will be working on fixing a bug that was introduced during the integration."",
+  ""Manager: Thank you for the updates. Does anyone have any blockers or concerns?"",
+  ""Junior 1: I'm having some trouble with the integration of the UI with the backend. I'm not sure how to handle the data transfer between the two."",
+  ""Manager: Junior 2, can you help Junior 1 with this? You have experience with integrating UIs and backends."",
+  ""Junior 2: Sure, I can help. I'll pair up with Junior 1 and we'll work on it together."",
+  ""Manager: Great. I'm confident that you'll be able to resolve this issue quickly."",
+  ""Manager: Any other issues or concerns?"",
+  ""Junior 3: No, not from my side."",
+  ""Manager: Okay, then. Let's continue with our work. Thank you for your updates.""
+ ]
+}",
+4,wordpress development,"{
+ ""date"": ""2023-08-16"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2"",
+  ""Junior 3"",
+  ""Junior 4""
+ ],
+ ""transcript"": [
+  ""{Manager}: Good morning, team. Let's start with our daily standup meeting."",
+  ""{Junior 1}: Good morning, everyone. Yesterday, I completed the task of designing the website layout for the homepage. I'm currently working on the development of the homepage sections, including the header, navigation menu, and main content area."",
+  ""{Manager}: Great job, Junior 1. Keep up the good work."",
+  ""{Junior 2}: Good morning, everyone. I've completed the task of developing the product page template. I'm currently implementing the shopping cart functionality for the website."",
+  ""{Manager}: Excellent, Junior 2. I appreciate your progress."",
+  ""{Junior 3}: Good morning, everyone. I've finished developing the blog page template. I'm now working on the integration of social media sharing buttons for each blog post."",
+  ""{Manager}: Fantastic, Junior 3. I'm glad to see your dedication."",
+  ""{Junior 4}: Good morning, everyone. I've successfully completed the task of developing the contact page template. I'm currently working on the implementation of a contact form with validation."",
+  ""{Manager}: Wonderful work, Junior 4. Your contribution is highly appreciated."",
+  ""{Manager}: Are there any blockers or challenges that you're facing in your tasks?"",
+  ""{Junior 2}: I'm facing a slight issue with the integration of the payment gateway. I've reached out to the payment processor for assistance."",
+  ""{Manager}: That's understandable, Junior 2. Keep me updated on the progress."",
+  ""{Junior 3}: I encountered a minor bug while implementing the social media sharing buttons. I'm working on fixing it at the moment."",
+  ""{Manager}: I'm confident you'll resolve it soon, Junior 3."",
+  ""{Manager}: Let's continue working diligently towards meeting our project deadlines. Keep up the excellent work, team. If you have any questions or concerns, feel free to reach out to me."",
+  ""{Junior 1}: Thank you, Manager. We appreciate your guidance."",
+  ""{Manager}: You're welcome, Junior 1. Our team spirit and collaboration will ensure the success of this project. That's all for today's standup meeting. Have a productive day, everyone."",
+  ""{Attendees}: Thank you, Manager. You too.""
+ ]
+}",
+5,devops,"{
+ ""date"": ""2023-06-22"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2"",
+  ""Junior 3"",
+  ""Junior 4"",
+  ""Junior 5""
+ ],
+ ""transcript"": {
+  ""Manager"": ""Good morning, team. Let's start with our daily standup meeting. Junior 1, what did you work on yesterday?"",
+  ""Junior 1"": ""Yesterday, I completed the deployment of the new application to the production environment. I also fixed a few bugs that were reported by the QA team."",
+  ""Manager"": ""That's great. What are you working on today?"",
+  ""Junior 1"": ""Today, I'm going to start working on the new feature that we're adding to the application."",
+  ""Manager"": ""Okay. Junior 2, what about you?"",
+  ""Junior 2"": ""Yesterday, I worked on improving the performance of the application. I also fixed a few security issues that were identified by the security team."",
+  ""Manager"": ""Great work. What are you planning to do today?"",
+  ""Junior 2"": ""Today, I'm going to continue working on the performance improvements. I'm also going to start working on a new monitoring system for the application."",
+  ""Manager"": ""Excellent. Junior 3, it's your turn."",
+  ""Junior 3"": ""Yesterday, I worked on refactoring some of the code in the application. I also added some new features to the API."",
+  ""Manager"": ""Sounds good. What are you going to work on today?"",
+  ""Junior 3"": ""Today, I'm going to finish up the refactoring work. I'm also going to start working on a new user interface for the application."",
+  ""Manager"": ""Okay. Junior 4, what did you do yesterday?"",
+  ""Junior 4"": ""Yesterday, I worked on creating a new documentation site for the application. I also helped Junior 3 with some of the refactoring work."",
+  ""Manager"": ""That's helpful. What are you working on today?"",
+  ""Junior 4"": ""Today, I'm going to finish up the documentation site. I'm also going to start working on a new testing framework for the application."",
+  ""Manager"": ""Great. Junior 5, do you have anything to share?"",
+  ""Junior 5"": ""Yesterday, I worked on fixing a few bugs that were reported by the QA team. I also worked on improving the test coverage of the application."",
+  ""Manager"": ""Good work. What are you planning to do today?"",
+  ""Junior 5"": ""Today, I'm going to finish up fixing the bugs. I'm also going to start working on a new deployment pipeline for the application."",
+  ""Manager"": ""That's it for today's standup meeting. Good luck with your work and let me know if you have any questions."",
+  ""All"": ""Thank you, Manager.""
+ }
+}",
+2,software developement(java),"```
+{
+    ""date"": ""2023-03-08"",
+    ""time"": ""10:00 AM"",
+    ""attendess"": [
+        ""John Smith (Manager)"",
+        ""Jane Doe (Junior Developer)"",
+        ""Michael Jones (Junior Developer)""
+    ],
+    ""transcript"": [
+        ""John Smith: Good morning, everyone. Let's start with our daily standup meeting."",
+        ""Jane Doe: Hi, John. Yesterday, I completed the task of implementing the new user registration feature. Today, I will be working on the task of integrating the payment gateway."",
+        ""Michael Jones: Hi, John. Yesterday, I completed the task of designing the database schema. Today, I will be working on the task of implementing the data access layer."",
+        ""John Smith: Great work, everyone. Keep up the good progress."",
+        ""Jane Doe: I have a question about the payment gateway integration. How do I handle the security aspects of the transaction?"",
+        ""John Smith: That's a good question, Jane. We have a security team that can help you with that. I'll connect you with them."",
+        ""Jane Doe: Thank you, John."",
+        ""Michael Jones: I have a blocker on my task. I'm trying to implement the data access layer, but I'm getting an error. I think it's a bug in the framework we're using."",
+        ""John Smith: I see. Let's take a look at it after the meeting."",
+        ""Michael Jones: Okay, thanks."",
+        ""John Smith: Is there anything else we need to discuss?"",
+        ""Jane Doe: No, I think that's all."",
+        ""Michael Jones: Me too."",
+        ""John Smith: Alright, then. Let's continue with our work. Have a productive day, everyone!""
+    ]
+}
+```",
+3,data science,"{
+ ""date"": ""2023-03-13"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2"",
+  ""Junior 3""
+ ],
+ ""transcript"": ""Manager: Good morning team. Let's start today's standup meeting. Junior 1, can you please share your progress on the data cleaning task?
+
+Junior 1: Good morning manager and team. I have completed the data cleaning task. I removed all the duplicate and missing values from the dataset. I also applied some transformations to make the data more consistent.
+
+Manager: Good job. What about the data analysis task?
+
+Junior 1: I have started working on the data analysis task. I have explored the data and identified some interesting patterns. I will be able to complete the analysis by tomorrow.
+
+Manager: Great. Junior 2, what about the machine learning model training task?
+
+Junior 2: Good morning manager and team. I have completed the training of the machine learning model. The model is performing well on the validation set. I will now evaluate the model on the test set.
+
+Manager: Excellent. Junior 3, do you have any blockers on your task?
+
+Junior 3: Good morning manager and team. I am facing a blocker on my task. I am unable to load the data into the database. I tried different methods, but nothing seems to work.
+
+Manager: I see. Let's discuss this after the meeting. Junior 1, you will work on the data visualization task. Visualize the results of the data analysis. Junior 2, you will deploy the machine learning model to the production environment. Junior 3, you will focus on resolving the blocker on your task. If you need any help, please let me know.
+
+Junior 1, Junior 2, Junior 3: Sure.
+
+Manager: That's all for today's standup meeting. Thank you all for your hard work.
+
+[End of meeting]""
+}",
+4,data cleaning,"```
+{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [""Manager"", ""Junior 1"", ""Junior 2"", ""Junior 3"", ""Junior 4""],
+ ""transcript"": ""Manager: Good morning, team. Let's start our daily standup meeting. Junior 1, can you share the tasks you completed yesterday?
+
+Junior 1: Good morning, Manager. Yesterday, I completed the data cleaning of the customer database and updated the records with the latest information. I also removed duplicate entries and ensured data consistency.
+
+Manager: Great work, Junior 1. How about you, Junior 2?
+
+Junior 2: Good morning, Manager. I worked on cleaning the sales data. I identified and corrected errors in the product codes, quantities, and prices. I also categorized the sales records by region and product type to make them easier to analyze.
+
+Manager: That's great progress, Junior 2. Keep up the good work. Junior 3, what did you work on?
+
+Junior 3: Good morning, Manager. I focused on cleaning the financial data. I reconciled the bank statements with the accounting records and adjusted the entries to ensure accuracy. I also updated the financial reports with the latest figures.
+
+Manager: Excellent, Junior 3. Your attention to detail is commendable. Junior 4, what have you been working on?
+
+Junior 4: Good morning, Manager. I worked on cleaning the employee data. I verified the employee records, updated contact information, and ensured compliance with data protection regulations. I also created a new employee directory for easy reference.
+
+Manager: Well done, Junior 4. Your efforts in maintaining accurate employee data are essential for HR processes. Now, are there any blockers or challenges you're facing?
+
+Junior 2: Manager, I encountered some missing values in the sales data. Should I proceed with estimated values or wait for the missing information to be provided?
+
+Manager: Good question, Junior 2. Let's discuss the best approach during our project planning meeting today. Junior 3, any challenges from your end?
+
+Junior 3: Manager, I noticed some inconsistencies in the financial data. I'm working to resolve them, but I may need assistance from the accounting team to verify certain transactions.
+
+Manager: I'll reach out to the accounting team and arrange a meeting with them. Junior 4, any issues you need to raise?
+
+Junior 4: Manager, I'm facing some difficulties in obtaining employee consent for data updates. Some employees are reluctant to share their updated information.
+
+Manager: I understand, Junior 4. Let's discuss strategies to address this during our team meeting.
+
+Great job, team! Your dedication to data cleaning is commendable. Keep up the good work, and let's continue to collaborate effectively. The daily standup meetings are crucial for us to stay aligned and address any challenges promptly. I appreciate your commitment to this project.""
+}
+```",
+5,mobile application development(swift),"``` JSON
+{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [""Manager"", ""Junior 1"", ""Junior 2"", ""Junior 3"", ""Junior 4"", ""Junior 5""],
+ ""transcript"": 
+  ""Manager: Good morning, team. Let's start our daily standup meeting. Junior 1, can you share your completed tasks and current status?""
+
+  Junior 1: ""Good morning, Manager. I have completed the user interface design for the home screen, and implemented the login and signup functionality. I am currently working on the profile screen, where users can update their personal information.""
+
+  Manager: ""Great work, Junior 1. Keep up the good pace. Junior 2, what tasks have you tackled today?""
+
+  Junior 2: ""Good morning, Manager. I have finished integrating the third-party payment gateway with our application, so now users can make secure in-app purchases. I am currently adding support for multiple payment methods, such as credit cards, debit cards, and digital wallets.""
+
+  Manager: ""Excellent. Thank you for your efforts, Junior 2. Junior 3, how are you progressing?""
+
+  Junior 3: ""Good morning, Manager. I have developed the core algorithms for the app's main game feature, and they're working as expected. I am currently implementing the user-friendly tutorials to guide players through the game. In addition, I'm also working on creating various levels of difficulty for the game to keep players engaged.""
+
+  Manager: ""That's impressive, Junior 3. Keep it up. Junior 4, what's your update?""
+
+  Junior 4: ""Good morning, Manager. I have designed the graphics and animations for the mobile application. I am currently implementing them in the code to make the app more visually appealing and engaging for users. I am also optimizing the graphics to ensure smooth performance across different devices.""
+
+  Manager: ""Nice work, Junior 4. I'm glad you're working on the graphics. Now, Junior 5, let us hear from you.""
+
+  Junior 5: ""Good morning, Manager. I have completed testing the app thoroughly across multiple devices and operating systems. I ensured that all features are working correctly and the app is functioning without any crashes or errors. I'm working on documenting the testing process and results for future reference.""
+
+  Manager: ""Fantastic, Junior 5. Your testing efforts are essential for delivering a high-quality application. Are there any blockers or challenges that any of you are facing?""
+
+  Junior 3: ""Manager, I'm experiencing some difficulties in implementing the multiplayer mode. I've run into some technical issues with the online networking. I am working on it, but if you have any resources or suggestions, that would be helpful.""
+
+  Manager: ""Certainly. I'll connect you with our senior software engineer who has worked on similar projects before. They might have valuable insights or solutions to your challenges. Is there anything else?""
+
+  (The meeting continues with other Junior members discussing their completed tasks and current status, addressing any blockers or challenges they encounter.)
+
+  Manager: ""Thank you, team, for your updates. Keep up the great work, and let me know if I can assist you in any way. Remember, we're all in this together. Let's strive to deliver the best possible product to our users.""
+
+  (The meeting ends with the team members wrapping up their discussions.)
+}
+```",
+2,mobile application development(swift),"```
+{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior Developer 1"",
+  ""Junior Developer 2""
+ ],
+ ""transcript"": [
+  ""Manager: Good morning, team. Let's start with our daily standup meeting."",
+  ""Junior Developer 1: Good morning, everyone. Yesterday, I completed the user interface design for the main screen of the app. Today, I'll be working on the functionality for the login and registration screens."",
+  ""Junior Developer 2: Good morning. Yesterday, I finished the back-end code for the user authentication feature. Today, I'll be working on the integration of the back-end with the front-end."",
+  ""Manager: Great work, team. Keep up the good progress."",
+  ""Junior Developer 1: I have a question about the user interface design. Should I use a tab bar or a navigation bar for the main screen?"",
+  ""Manager: That's a good question. I think a tab bar would be a better choice for the main screen. It's more user-friendly and intuitive."",
+  ""Junior Developer 1: Thank you for the feedback. I'll make the changes."",
+  ""Manager: Are there any blockers that you're facing?"",
+  ""Junior Developer 2: I'm having some trouble integrating the back-end with the front-end. I'm not sure how to pass data between the two."",
+  ""Manager: I can help you with that. I'll send you a document that explains how to do it."",
+  ""Junior Developer 2: Thank you, sir."",
+  ""Manager: Okay, team. That's all for today's standup meeting. Keep up the good work!"",
+  ""Junior Developer 1: Thank you, sir."",
+  ""Junior Developer 2: Thank you, sir.""
+ ]
+}
+```",
+3,mobile application development(swift),"```
+{
+  ""date"": ""2023-03-08"",
+  ""time"": ""10:00 AM"",
+  ""attendess"": [
+    ""Manager"",
+    ""Junior 1"",
+    ""Junior 2"",
+    ""Junior 3""
+  ],
+  ""transcript"":
+`
+Manager: Good morning team, let's start with our daily standup meeting. [Addressing Junior 1] Can you share your progress on the login module?
+
+Junior 1: Yesterday, I completed the integration of the login form with the backend API. I also added error handling for invalid credentials and network issues. Currently, I'm working on implementing the forgot password feature.
+
+Manager: Great work! [Turning to Junior 2] How about you?
+
+Junior 2: I've finished developing the user profile page and added functionality for users to update their profile information. I'm currently working on integrating the user profile with the backend so that users can see their profile data in the app.
+
+Manager: Excellent! [Looking at Junior 3] And what about you?
+
+Junior 3: I've completed the design for the checkout page and started implementing it in Swift. I'm also working on integrating the payment gateway to process secure payments within the app.
+
+Manager: That's great progress. Keep up the good work. Are there any blockers or challenges you're facing?
+
+Junior 1: I'm having trouble implementing the two-factor authentication feature. I'm not sure how to integrate it with the existing login module.
+
+Manager: I understand. [Addressing the team] Can anyone help Junior 1 with this?
+
+Junior 2: I have some experience with two-factor authentication. I can help Junior 1 with the integration.
+
+Manager: That's great. Thank you, Junior 2. [Addressing Junior 1] Feel free to reach out to Junior 2 for assistance.
+
+Junior 1: Thank you, Manager. I will.
+
+Manager: Alright team, keep up the great work. We're on track to deliver the mobile application on time. Let's continue to support each other and overcome any challenges that come our way.
+
+[The meeting concludes.]
+`
+}
+```",
+4,data analytics,"```json
+{
+ ""date"": ""2023-03-08"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [""Manager"", ""Junior 1"", ""Junior 2"", ""Junior 3"", ""Junior 4""],
+ ""transcript"": [
+  ""Manager: Good morning team. Let's start with our daily standup meeting."",
+  ""Junior 1: Hi Manager, yesterday I  completed the data cleaning and preprocessing tasks for the customer churn analysis project. Today, I'll be working on developing the machine learning models to predict customer churn."",
+  ""Manager: Great work, Junior 1. Keep it up."",
+  ""Junior 2: Hi Manager, I  finalized the data visualization dashboards for the sales performance analysis project. Today, I'll be presenting the findings to the stakeholders."",
+  ""Manager: That's excellent news, Junior 2. I'm sure the stakeholders will appreciate your insights."",
+  ""Junior 3: Hi Manager, I  faced a blocker while working on the fraud detection project. I'm having trouble integrating the real-time data feed with the anomaly detection algorithm. I'll need some assistance from the senior data engineer."",
+  ""Manager: I understand, Junior 3. I'll assign a senior data engineer to help you resolve the issue. In the meantime, you can continue working on other tasks."",
+  ""Junior 4: Hi Manager, I  completed the data exploration and feature engineering tasks for the sentiment analysis project. Today, I'll be training and evaluating the natural language processing models."",
+  ""Manager: Fantastic, Junior 4. I'm excited to see the results of your analysis."",
+  ""Manager: Any other updates or concerns from the team?"",
+  ""Junior 1: No, Manager. That's all from my side."",
+  ""Junior 2: Me too, Manager."",
+  ""Junior 3: Same here, Manager."",
+  ""Junior 4: No updates from me as well, Manager."",
+  ""Manager: Alright team. Keep up the good work and let me know if you encounter any further issues. We'll meet again tomorrow for our next standup meeting."",
+  ""All: Thank you, Manager.""
+ ]
+}
+```",
+5,mobile development(android),"```
+{
+    ""date"": ""2023-03-08"",
+    ""time"": ""10:00 AM"",
+    ""attendess"": [
+        ""Manager"",
+        ""Junior 1"",
+        ""Junior 2"",
+        ""Junior 3"",
+        ""Junior 4"",
+        ""Junior 5""
+    ],
+    ""transcript"": {
+        ""Manager"": ""Good morning, team. Let's start our daily standup meeting."",
+        ""Junior 1"": ""Good morning, everyone. Yesterday, I completed the design for the new user interface. Today, I'm going to start working on the implementation."",
+        ""Junior 2"": ""Good morning. Yesterday, I finished coding the login feature. Today, I'll be working on the registration feature."",
+        ""Junior 3"": ""Good morning. Yesterday, I fixed the bug in the navigation bar. Today, I'm going to start working on the new feature that allows users to share their location."",
+        ""Junior 4"": ""Good morning. Yesterday, I completed the coding for the new feature that allows users to chat with each other. Today, I'll be working on the testing."",
+        ""Junior 5"": ""Good morning. Yesterday, I finished writing the documentation for the new feature. Today, I'm going to start working on the marketing materials."",
+        ""Manager"": ""Thank you, everyone. I appreciate your hard work. Please keep up the good work."",
+        ""Junior 1"": ""Will do."",
+        ""Junior 2"": ""No problem."",
+        ""Junior 3"": ""I'm on it."",
+        ""Junior 4"": ""You got it."",
+        ""Junior 5"": ""I'll make it happen."",
+        ""Manager"": ""That's all for today's meeting. Have a productive day, everyone.""
+    }
+}
+```",
+2,mobile application development(swift),"```
+{
+  ""date"": ""2023-03-08"",
+  ""time"": ""10:00 AM"",
+  ""attendess"": [
+    ""Manager"",
+    ""Junior 1"",
+    ""Junior 2""
+  ],
+  ""transcript"": [
+    {""speaker"": ""Manager"", ""content"": ""Good morning, team. Let's start our daily standup meeting.""},
+    {""speaker"": ""Junior 1"", ""content"": ""Yesterday, I completed the design for the user interface of the mobile application. Today, I'll start developing the front-end using Swift.""},
+    {""speaker"": ""Manager"", ""content"": ""That's great progress. Keep up the good work.""},
+    {""speaker"": ""Junior 2"", ""content"": ""I finished implementing the core functionality of the app. Now, I'm working on integrating it with the user interface.""},
+    {""speaker"": ""Manager"", ""content"": ""That sounds good. Are you facing any blockers?""},
+    {""speaker"": ""Junior 2"", ""content"": ""I'm having some trouble with the integration. I'm not sure how to handle the data transfer between the front-end and back-end.""},
+    {""speaker"": ""Manager"", ""content"": ""Don't worry, we can work through this together. I'll assign a senior developer to help you out.""},
+    {""speaker"": ""Junior 2"", ""content"": ""Thank you, I appreciate it.""},
+    {""speaker"": ""Manager"", ""content"": ""Alright, team. Let's continue working hard and we'll have this app ready in no time.""},
+    {""speaker"": ""Junior 1"", ""content"": ""Yes, sir.""},
+    {""speaker"": ""Junior 2"", ""content"": ""We won't let you down.""},
+    {""speaker"": ""Manager"", ""content"": ""That's the spirit. Meeting adjourned.""}
+  ]
+}
+```",
+3,data analytics,"{
+ ""date"": ""2023-02-23"",
+ ""time"": ""10:00 AM"",
+ ""attendess"": [
+  ""Manager"",
+  ""Junior 1"",
+  ""Junior 2"",
+  ""Junior 3""
+ ],
+ ""transcript"": `
+Manager: Good morning, team. Let's start our daily standup meeting. Junior 1, can you please share your progress on the data analytics project?
+
+Junior 1: Yes, sure. I completed the data cleaning and wrangling tasks yesterday. Today, I'll start exploring the data to identify patterns and trends.
+
+Manager: That's great progress. Junior 2, what about you?
+
+Junior 2: I worked on building the machine learning models. I trained and evaluated several models using different algorithms and hyperparameters. I'll fine-tune the models today and select the best one.
+
+Manager: Excellent. Junior 3, what have you been working on?
+
+Junior 3: I focused on developing the data visualization dashboards. I created interactive visualizations to present the insights from the data analysis. I'll finalize the dashboards today and share them with the team for review.
+
+Manager: That sounds impressive. Keep up the good work, everyone. Are there any blockers or challenges you're facing?
+
+Junior 1: I'm having some difficulty in interpreting the results of the data analysis. I'd appreciate some guidance on that.
+
+Manager: Sure, I can help you with that. Let's schedule a quick meeting later today to discuss it. Junior 2, any challenges from your side?
+
+Junior 2: No, I'm not facing any major challenges at the moment.
+
+Junior 3: I'm encountering some issues with the data visualization tool. I'll reach out to the support team to resolve them.
+
+Manager: That's good to hear. Remember to communicate any challenges or roadblocks as soon as possible so that we can address them promptly.
+
+In summary, we're making significant progress on the data analytics project. Keep up the great work, and let me know if you have any questions or concerns.
+
+Meeting adjourned.
+ `
+}",
+4,devops,"{
+    ""date"": ""2023-08-17"",
+    ""time"": ""10:00 AM"",
+    ""attendess"": [
+        ""Manager"",
+        ""Junior 1"",
+        ""Junior 2"",
+        ""Junior 3"",
+        ""Junior 4""
+    ],
+    ""transcript"": [
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Good morning, team. I'd like to start our daily standup meeting.""
+        },
+        {
+            ""speaker"": ""Junior 1"",
+            ""text"": ""Yesterday, I completed the deployment of the new dev environment. Today, I'll be working on integrating the new code changes.""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""Yesterday, I finished the performance testing for the new feature. Today, I'll be creating documentation for the new feature.""
+        },
+        {
+            ""speaker"": ""Junior 3"",
+            ""text"": ""Yesterday, I completed the refactoring of the codebase. Today, I'm hoping to start working on the new user interface.""
+        },
+        {
+            ""speaker"": ""Junior 4"",
+            ""text"": ""Yesterday, I finished debugging the issue with the new API. Today, I'm going to be working on improving the security of the application.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Great work, team. I'm glad to see that everyone is making progress on their tasks. Are there any blockers that you're facing?""
+        },
+        {
+            ""speaker"": ""Junior 3"",
+            ""text"": ""I'm having a little trouble getting started on the new user interface. I'm not sure where to begin.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""I can help you with that. I'll assign you a mentor who can help you get started.""
+        },
+        {
+            ""speaker"": ""Junior 3"",
+            ""text"": ""Thank you, sir.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""Is there anything else that we need to discuss today?""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""I have a question about the new release schedule. When is the next release planned?""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""The next release is scheduled for the end of next month.""
+        },
+        {
+            ""speaker"": ""Junior 2"",
+            ""text"": ""Thanks for the information.""
+        },
+        {
+            ""speaker"": ""Manager"",
+            ""text"": ""That's all for today's meeting. Keep up the good work, team.""
+        }
+    ]
+}",
+5,software developement(python),"```
+{
+ ""date"": ""2023-02-14"",
+ ""time"": ""10:00 AM - 10:30 AM"",
+ ""attendess"": [""Manager"", ""Junior1"", ""Junior2"", ""Junior3"", ""Junior4"", ""Junior5""],
+ ""transcript"": ""Manager: Good morning, everyone. Let's start our daily standup meeting. Junior1, can you please share your progress on the software development project?
+
+Junior1: Good morning, Manager and team. Yesterday, I completed the task of developing the user interface for the login page. Today, I will be working on the backend code for the authentication system. I don't have any blockers at the moment.
+
+Manager: Thank you, Junior1. Junior2, What's your update?
+
+Junior2: Good morning, Manager and team. Yesterday, I finished debugging the payment gateway integration. Today, I will be focusing on implementing the search functionality for the products page. I am currently facing a blocker with the search algorithm, and I am working on resolving it.
+
+Manager: Okay, Junior2. Junior3, please share your progress.
+
+Junior3: Good morning, Manager and team. Yesterday, I completed the task of optimizing the database queries for better performance. Today, I will be working on the unit testing framework for the new features. I don't have any blockers at the moment.
+
+Manager: Thank you, Junior3. Junior4, what's your update?
+
+Junior4: Good morning, Manager and team. Yesterday, I finished developing the mobile app for iOS and successfully submitted it to the App Store for review. Today, I will be working on the Android version of the mobile app. I am currently facing a blocker with the GPS integration, and I am trying to find a solution.
+
+Manager: Okay, Junior4. Junior5, please share your progress.
+
+Junior5: Good morning, Manager and team. Yesterday, I completed the task of creating the documentation for the new features. Today, I will be working on a training module for the new employees. I don't have any blockers at the moment.
+
+Manager: Thank you, Junior5. It seems like everyone is making good progress on their tasks. Let's continue to work hard and support each other. If anyone faces any challenges or blockers, please feel free to reach out to me or your teammates. We are here to help each other succeed.
+
+The meeting is adjourned for today. Thank you, everyone.""
+}
+```",
